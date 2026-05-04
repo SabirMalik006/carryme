@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-top container">
         <div className="footer-brand">
-          <Link to="/" className="footer-logo">Carry Me</Link>
+          <Link to="/" className="footer-logo">Abstract Vault</Link>
           <p>Pakistan's premium destination for stylish bags and accessories. Quality you can feel, style you can see.</p>
           <div className="social-links">
             <a href="#" aria-label="Instagram"><FiInstagram /></a>
@@ -60,7 +60,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom container">
-        <p>© {new Date().getFullYear()} CarryMe. All rights reserved. Made with ♥ in Pakistan</p>
+        <p>© {new Date().getFullYear()} Abstract Vault . All rights reserved. Made with ♥ in Pakistan</p>
         <div className="payment-badges">
           <span>COD</span>
           <span>JazzCash</span>

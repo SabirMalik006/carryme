@@ -202,7 +202,7 @@ export default function Home() {
           <div className="container">
             <p className="section-tag">Testimonials</p>
             <h2 className="section-title">What Our Customers Say</h2>
-            <p className="section-subtitle">Real reviews from real CarryMe customers across Pakistan.</p>
+            <p className="section-subtitle">Real reviews from real Abstract Vault customers across Pakistan.</p>
             <div className="reviews-marquee">
               <div className="reviews-track">
                 {/* Double the reviews for seamless loop */}
@@ -232,7 +232,7 @@ export default function Home() {
         <section className="instagram-section">
           <div className="container" style={{ textAlign: 'center' }}>
             <p className="section-tag">Follow Us</p>
-            <h2 className="section-title">@CarryMe.pk</h2>
+            <h2 className="section-title">@Abstract Vault.pk</h2>
             <p className="section-subtitle">Tag us in your photos for a chance to be featured!</p>
             <div className="instagram-grid">
               {[

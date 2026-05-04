@@ -48,7 +48,7 @@
 }
 
 .badge-out {
-  background: var(--primary);
+  background: #143224;
   color: white;
 }
 
@@ -80,16 +80,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--primary);
+  color: #1f2937;
   font-size: 0.95rem;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .action-btn:hover {
-  background: var(--primary);
+  background: #143224;
   color: var(--white);
-  border-color: var(--primary);
+  border-color: #143224;
 }
 
 .wishlist-btn.active {
@@ -136,7 +136,7 @@
 }
 
 .swatch.active {
-  border-color: var(--primary);
+  border-color: #143224;
   transform: scale(1.15);
 }
 
@@ -159,7 +159,7 @@
 }
 
 .product-name a:hover {
-  color: var(--accent-dark);
+  color: #143224;
 }
 
 .product-pricing {
@@ -172,7 +172,7 @@
 .price-sale {
   font-size: 1rem;
   font-weight: 700;
-  color: var(--primary);
+  color: #143224;
 }
 
 .price-original {
@@ -184,8 +184,8 @@
 .btn-add-cart {
   width: 100%;
   padding: 10px;
-  background: var(--primary);
-  color: var(--white);
+  background: #143224;
+  color: #ffffff;
   border: none;
   border-radius: 8px;
   font-family: var(--font-body);
@@ -198,7 +198,7 @@
 }
 
 .btn-add-cart:hover {
-  background: var(--accent-dark);
+  background: #1e4a34;
   transform: translateY(-1px);
 }
 
